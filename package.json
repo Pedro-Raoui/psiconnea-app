@@ -1,5 +1,5 @@
 {
-  "name": "psiconnea-app",
+  "name": "Psiconnea-app",
   "version": "0.0.1",
   "author": "Ionic Framework",
   "homepage": "https://ionicframework.com/",
@@ -25,6 +25,7 @@
     "@capacitor/keyboard": "4.1.1",
     "@capacitor/status-bar": "4.1.1",
     "@ionic/angular": "^7.0.0",
+    "crypto-js": "^4.1.1",
     "ionicons": "^7.0.0",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
@@ -43,6 +44,7 @@
     "@angular/language-service": "^15.0.0",
     "@capacitor/cli": "4.7.3",
     "@ionic/angular-toolkit": "^9.0.0",
+    "@types/crypto-js": "^4.1.1",
     "@types/jasmine": "~4.0.0",
     "@types/node": "^12.11.1",
     "@typescript-eslint/eslint-plugin": "5.3.0",

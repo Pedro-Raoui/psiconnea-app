@@ -1,5 +1,5 @@
 export const environment = {
-  production: true,
-  env: 'Production',
+  production: false,
+  env: 'Staging',
   app_key: '',
 };
